@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+}
+
+.header_logo {
+    background-color: red;
+}
+
+.header_menu {
+    display: flex;
+    align-items: center;
+}
